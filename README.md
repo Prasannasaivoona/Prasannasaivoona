@@ -36,34 +36,37 @@ I enjoy turning complex ideas into useful software: preparing data, building and
 
 | Focus | Tools and skills |
 | --- | --- |
-| Languages | Python, TypeScript, JavaScript, SQL |
-| Machine learning | TensorFlow, TensorFlow.js, PyTorch, scikit-learn, Pandas, NumPy; regression, classification, clustering, Random Forest, KNN, K-Means, FNN, RNN, LSTM, CNN |
-| Generative AI | RAG, NLP, LangChain, LangGraph, Hugging Face Transformers, OpenAI APIs, FAISS, ChromaDB |
-| Backend and data | Node.js, Express.js, FastAPI, REST APIs, PostgreSQL, MySQL, MongoDB |
-| Product and delivery | HTML, CSS, responsive UI, Git, Docker, Linux, PM2, HIOX, DirectAdmin, Render, AWS, GCP, Azure |
-| Quality and operations | Feature engineering, hyperparameter tuning, automated API/service/payment testing, ESLint, rate limiting, Helmet, DNS/SSL, deployment verification |
+| Programming languages | Python, TypeScript, JavaScript, SQL |
+| AI and Generative AI | RAG, NLP, Generative AI, LangChain, LangGraph, Hugging Face Transformers, OpenAI APIs |
+| ML/DL and algorithms | TensorFlow, TensorFlow.js, PyTorch, scikit-learn, regression, classification, clustering, Random Forest, KNN, K-Means, FNN, RNN, LSTM, CNN, feature engineering, hyperparameter tuning |
+| Backend and web development | Node.js, Express.js, FastAPI, REST APIs, HTML, CSS, responsive UI development |
+| Databases and vector stores | PostgreSQL, MySQL, MongoDB, FAISS, ChromaDB |
+| Data and visualization | Pandas, NumPy, Matplotlib, Grafana, Power BI |
+| Cloud and DevOps | AWS, GCP, Azure, Docker, Linux, PM2, HIOX, DirectAdmin, Render |
+| Tools | Git, GitHub, Brevo, Aiven, Neon |
 
 ## Experience
 
 ### Accendion · AI Engineer · Hyderabad · Jun 2026–Present
 
-Building a full-stack stock research product spanning live market data, technical analysis, AI-assisted research, prediction, secure accounts, subscriptions, admin workflows, notifications, and production operations. This is private company work; the profile describes it at a high level.
+Building a full-stack stock research product using TypeScript, Node.js, Express.js, PostgreSQL, and REST APIs. Work includes live market quotes, technical analysis, AI-assisted research, candlestick prediction, charts, watchlists, OTP authentication, secure sessions, subscriptions, CCAvenue payments, admin dashboards, notifications, caching, security controls, automated API/payment tests, and deployment through HIOX, DirectAdmin, Docker, and PM2. This is private company work; details are shared at a high level.
 
 ### SierraedgeAI Pvt Ltd · AI Engineer · Bengaluru · Oct 2024–May 2026
 
-Developed ML/DL pipelines from data preparation and feature engineering through training, evaluation, tuning, and FastAPI inference. Built predictive analytics and RAG/LLM applications using structured and unstructured data.
+Developed end-to-end ML/DL pipelines for preprocessing, feature engineering, training, evaluation, and hyperparameter tuning. Built regression, classification, clustering, Random Forest, and neural-network models with FastAPI inference, and developed RAG/LLM applications for contextual retrieval across structured and unstructured sources.
 
 ## Project gallery
 
 <details>
-<summary><strong>01 · Accendion Stock Research Platform</strong></summary>
+<summary><strong>01 · Accendion Stock Research Platform</strong> <em>Private company project</em></summary>
 <br>
 
 An end-to-end product experience for Indian stock research, bringing together live quotes, market movers, charts, watchlists, technical and pullback analysis, AI-assisted research, and candlestick prediction.
 
-- Built frontend and modular REST services; connected market data, PostgreSQL persistence, and AI/ML capabilities.
-- Contributed account and OTP flows, subscription plans, CCAvenue payments, admin operations, call delivery, support, and notifications.
-- Worked across automated checks, security controls, Docker/PM2 operations, HIOX hosting, and production deployment.
+- Built the platform from the ground up with TypeScript, Node.js, Express.js, PostgreSQL, and REST APIs.
+- Developed live quotes, technical analysis, AI-assisted research, candlestick prediction, charts, and watchlists.
+- Implemented OTP authentication, secure sessions, subscriptions, CCAvenue payments, admin dashboards, notifications, persistence, caching, security controls, and automated API/payment tests.
+- Supported production deployment using HIOX, DirectAdmin, Docker, and PM2, including DNS, SSL, backups, and health checks.
 
 `TypeScript` `Node.js` `Express.js` `PostgreSQL` `TensorFlow.js` `OpenAI API` `REST` `Docker` `PM2` `HIOX` `DirectAdmin` `CCAvenue`
 
@@ -73,7 +76,7 @@ An end-to-end product experience for Indian stock research, bringing together li
 <summary><strong>02 · Predictive Analytics &amp; ML Automation</strong></summary>
 <br>
 
-- Built PostgreSQL data pipelines, preprocessing, automated model training, and real-time FastAPI inference.
+- Built end-to-end pipelines for data preprocessing, PostgreSQL integration, automated training, model evaluation, and real-time FastAPI inference.
 - Applied regression, Random Forest, and feedforward neural networks; added explainable outputs and Grafana dashboards.
 
 `Python` `scikit-learn` `TensorFlow` `PostgreSQL` `FastAPI` `Pandas` `NumPy` `Grafana`
