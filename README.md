@@ -56,7 +56,7 @@ Developed ML/DL pipelines from data preparation and feature engineering through 
 ## Project gallery
 
 <details>
-<summary><strong>01 · Accendion Stock Research Platform</strong> <em>Private company project</em></summary>
+<summary><strong>01 · Accendion Stock Research Platform</strong></summary>
 <br>
 
 An end-to-end product experience for Indian stock research, bringing together live quotes, market movers, charts, watchlists, technical and pullback analysis, AI-assisted research, and candlestick prediction.
